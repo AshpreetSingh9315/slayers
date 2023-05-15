@@ -161,6 +161,8 @@ body{
     flex-direction: column;
 }
 
+ 
+
 @media screen and (max-width: 400px) {
     .links_1{
         display: none;
@@ -181,5 +183,6 @@ body{
     border: 1px solid rgba(0, 0, 0, 0.322);
     padding: 15px;
 }
+
     
 }
