@@ -18,7 +18,7 @@ body{
 }
 
 .bg{
-    background: linear-gradient(rgba(0, 0, 0, 0.600),rgba(0, 0, 0, 0.436),rgba(0, 0, 0, 0.568)) ,url(./Images/cricket-1.jpg) ;
+    background: linear-gradient(rgba(0, 0, 0, 0.600),rgba(0, 0, 0, 0.436),rgba(0, 0, 0, 0.568)) ,  url(./Images/bg_2.jpeg); ;
     height: 100vh;
     width: 100%;
     background-position: center;
@@ -188,9 +188,6 @@ body{
     text-align: center;
 }
 
-.bg{
-    background: url(./Images/bg_2.jpeg);
-    height: 100vh;
-}
+ 
     
 }
