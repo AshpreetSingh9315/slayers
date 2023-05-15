@@ -184,5 +184,13 @@ body{
     padding: 15px;
 }
 
+.onop{
+    text-align: center;
+}
+
+.bg{
+    background: url(./Images/bg_2.jpeg);
+    height: 100vh;
+}
     
 }
