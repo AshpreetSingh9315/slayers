@@ -18,7 +18,7 @@ body{
 }
 
 .bg{
-    background: linear-gradient(rgba(0, 0, 0, 0.600),rgba(0, 0, 0, 0.436),rgba(0, 0, 0, 0.568)) ,  url(./Images/bg_2.jpeg); ;
+    background: linear-gradient(rgba(0, 0, 0, 0.600),rgba(0, 0, 0, 0.436),rgba(0, 0, 0, 0.568)) ,  url(./Images/3d.jpg); ;
     height: 100vh;
     width: 100%;
     background-position: start;
